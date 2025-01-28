@@ -9,7 +9,7 @@ A smart agent that helps you find and download books.
 cp .env.example .env
 ```
 
-2. Configure your API keys in `.env`:
+2. [Get a Rapid API key here.](https://rapidapi.com/tribestick-tribestick-default/api/annas-archive-api/pricing) Configure your API keys in `.env`:
 ```
 OPENAI_API_KEY="your-openai-key"
 RAPID_API_KEY="your-rapid-api-key"
